@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Sushil Pariyar 4384866.
 
 [Link to another page](./another-page.html).
 
